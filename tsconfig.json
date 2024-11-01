@@ -1,0 +1,13 @@
+{
+
+    "compilerOptions": {
+      "outDir": "./dist",
+      "rootDir": "./",
+      "strict": true,
+      "module": "commonjs",
+      "target": "ESNext",
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "skipLibCheck": true
+    }
+  }
